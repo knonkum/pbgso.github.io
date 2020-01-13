@@ -38,7 +38,7 @@ weight: 5
 <tbody>
 
 <tr>
-<td><a href="https://www.ufplants.org/2020-plant-science-symposium">University of Florida</a></td><td>January 30</td>
+<td><a href="https://www.ufplants.org/2020-plant-science-symposium">University of Florida</a></td><td>January  30</td>
 </tr> 
 
 <tr>
